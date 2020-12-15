@@ -1,0 +1,12 @@
+{ 
+"data-root": "/home/admin/d",
+"mtu": 1500,
+"tls": true,
+"tlsverify": true,
+"tlscacert": "/home/admin/r/certs/ca.pem",
+"tlscert": "/home/admin/r/certs/cert.pem",
+"tlskey": "/home/admin/r/certs/key.pem",
+"bip": "192.168.1.5/24",
+"fixed-cidr": "192.168.1.5/25",
+"host": "tcp://192.168.1.196"
+}
